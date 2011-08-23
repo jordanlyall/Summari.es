@@ -1,0 +1,1 @@
+javascript:location.href='http://summari.es/?p='+encodeURIComponent(location.href)

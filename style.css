@@ -1,0 +1,33 @@
+html body{width:100%;padding:0px;margin:0px;overflow:hidden;font-family:arial;font-size:13px;color:#000000;background-color:#eeeeee}
+
+#header-bar{height:115px;background-color:#eeeeee;z-index:100;line-height:auto;margin-bottom:0px;border-bottom:1px solid #999999}
+#preview-frame{width:100%;background-color:#fff}
+
+#header-bar p.summary{margin: 8px 0 0 18px;float:left;width:97%;}
+#header-bar p.summary p{display:inline;margin:0px;}
+#header-bar p.summary a{text-decoration:none;color:#007f7f}
+#header-bar p.summary a:hover, #header-bar p.summary a.activated{color:#6e6e6e}
+
+a{text-decoration:none;color:#007f7f}
+a:hover, #header-bar p.summary a.activated{color:#6e6e6e}
+
+textarea {
+font-size: 13px;
+font-family: Arial;
+color: #333333;
+padding: 5px;
+margin-top:0px;
+}
+
+
+#home{width:100%;padding:40px 0 0 100px;margin:0px;overflow:hidden;font-family:arial;font-size:12px;color:#000000;background-color:#eeeeee; border-top:5px solid #999999}
+
+#title{font-family:arial;font-size:15px;}
+
+#footer{font-family:arial;font-size:10px;}
+
+#color{color:#147a8a;}
+
+#bookmarklet{width:110px;height:30px}
+#bookmarklet a{margin-top:6px;display:block;-moz-border-radius:12px;-webkit-border-radius:12px;-o-border-radius:12px;-ms-border-radius:12px;-khtml-border-radius:12px;border-radius:12px;line-height:24px;text-decoration:none;font-weight:bold;color:#666;-moz-box-shadow:rgba(0, 0, 0, 0.1) 0 1px 3px 0 inset;-webkit-box-shadow:rgba(0, 0, 0, 0.1) 0 1px 3px 0 inset;-o-box-shadow:rgba(0, 0, 0, 0.1) 0 1px 3px 0 inset;box-shadow:rgba(0, 0, 0, 0.1) 0 1px 3px 0 inset;background:#ddd;padding:0 10px;font-size:12px}
+#bookmarklet a:hover{color:#333}
